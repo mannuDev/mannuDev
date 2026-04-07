@@ -1,77 +1,127 @@
-# Hi 👋 I'm Mannu Kumar  
+# Hi 👋 I'm Mannu Kumar
 
-🚀 **Full-Stack Developer (MERN + Java)**  
-🎓 MCA Student | Passionate about building scalable web applications  
-💡 Always learning, building, and improving  
+🚀 **Aspiring Software Engineer | MERN + Java + DevOps**
+🎓 MCA Student @ Ganpat University
+💡 Passionate about scalable systems, clean code & backend engineering
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎯 Focused on **MERN Stack & Java Backend**
-- 💻 Building real-world projects & dashboards
-- 🌱 Currently learning **Spring Boot, React Advanced Concepts**
-- 🧠 Interested in **System Design & Clean Code**
-- 📫 Reach me at: **mannukumar332001@gmail.com**
+
+* 💻 Full-stack developer with **backend & DevOps focus**
+* 🚀 Built **AI-powered & production-grade applications**
+* ⚡ Strong in **REST APIs, Authentication & System Design**
+* 🔐 Experienced with **security tools & code analysis**
+* 🌱 Currently learning **Spring Boot & Advanced System Design**
+* 📫 Email: **[mannukumar332001@gmail.com](mailto:mannukumar332001@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5, CSS3, JavaScript  
-- React.js  
+### 🚀 Frontend
 
-### Backend
-- Node.js, Express.js  
-- Java, Spring Boot  
+* React.js (Hooks, Context API)
+* JavaScript (ES6+), HTML5, CSS3
 
-### Database
-- MongoDB  
-- MySQL  
+### ⚙️ Backend
 
-### Tools & Platforms
-- Git & GitHub  
-- Postman  
-- VS Code  
+* Node.js, Express.js
+* Java, Spring Boot
+
+### 🗄️ Database
+
+* MongoDB (Mongoose, GeoJSON)
+* MySQL
+
+### ⚡ DevOps & Tools
+
+* Docker 🐳
+* CI/CD (GitHub Actions)
+* Git & GitHub
+* Postman
+
+### 🔐 Security
+
+* CodeQL
+* Snyk
+* npm audit
+* Passport.js
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏠 House Rent Management System (MERN)
-- Property listing & management
-- Tenant & landlord dashboard
-- Secure authentication  
-**Tech:** React, Node.js, MongoDB
+### 🤖 AI Code Reviewer & Debugging Assistant
 
-### 🎵 Spotify Clone
-- Modern UI with React
-- Playlist & music layout  
-**Tech:** React, CSS
+* Built an **AI-powered PR reviewer using GPT API**
+* Automated **code analysis via GitHub Webhooks**
+* Integrated **CodeQL & Snyk for security checks**
+* Designed **CI/CD pipelines using GitHub Actions**
 
-### 🛠 Admin Dashboard
-- Product & order management
-- Image upload & CRUD operations  
-**Tech:** React, Node, MongoDB
+**Tech:** MERN, GPT API, GitHub API, CI/CD
+
+---
+
+### ✈️ TRipeHive (Travel + Rental Platform)
+
+* Developed an **Airbnb-like platform with booking & listing**
+* Implemented **role-based authentication**
+* Integrated **Cloudinary & Mapbox (Geo-based search)**
+* Designed scalable backend APIs
+
+🔗 Live: https://tripehive-web.onrender.com/
+
+**Tech:** MERN, Cloudinary, Mapbox
+
+---
+
+### 💰 Financial Trading Mini App
+
+* Built secure app with **JWT authentication & KYC flow**
+* Developed APIs for **wallet & transactions**
+* Implemented **role-based access control**
+
+**Tech:** MERN, JWT
+
+---
+
+### 🏠 House Rent Management System
+
+* Property listing & tenant dashboard
+* Secure authentication system
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mannu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannuDev&show_icons=true&theme=radical)
+![Mannu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannuDev\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mannuDev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mannuDev\&layout=compact\&theme=radical)
 
 ---
-# WORK
-**TRipeHive** :TripeHive is a full-stack MERN application that enables users to explore and book travel packages with features like GeoJSON-based location services, Cloudinary image uploads, and automated notifications.
-**LivePriview:** https://tripehive-web.onrender.com/
+
+## 📈 What I’m Currently Working On
+
+* 🚀 AI-powered applications
+* ⚙️ Backend scalability & performance
+* 📚 Data Structures & Algorithms
+
+---
+
+## 🏆 Achievements & Activities
+
+* 🎯 Member at **eDC IIT Delhi**
+* 🧠 Active in hackathons & innovation events
+
+---
 
 ## 🔗 Connect With Me
-- GitHub: https://github.com/mannuDev  
-- Portfolio: https://portfolio-frontend-s0ee.onrender.com/
-- LinkedIn:(https://www.linkedin.com/in/mmannusharma/)
+
+* 💻 GitHub: https://github.com/mannuDev
+* 🌐 Portfolio: https://portfolio-frontend-s0ee.onrender.com/
+* 🔗 LinkedIn: https://www.linkedin.com/in/mmannusharma/
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ *Let’s build something amazing together!*
